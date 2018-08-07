@@ -12,7 +12,10 @@ class Layout extends Component {
     console.log('swag')
   }
   render () {
-    return ()
+    return (<div>
+      <h1>Welcome</h1>
+      <h2>Tfinity</h2>
+    </div>)
   }
 }
 
